@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="J6LR/J6LR.vcxproj" Id="1aff71cc-482c-41d2-8bb0-46cea640a027" />
+</Solution>
