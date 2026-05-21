@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="logo.png" alt="J6LR Logo" width="500"/>
+</div>
+<div align="center">
 
 # 🔒 J6LR - Windows Lock Screen Demo
 
